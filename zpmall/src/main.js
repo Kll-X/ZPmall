@@ -31,8 +31,8 @@ import {
     // Button,
     Icon,
     NavBar,
-    // Tabbar,
-    // TabbarItem,
+    Tabbar,
+    TabbarItem,
     Swipe,
     SwipeItem,
     Lazyload
@@ -56,8 +56,8 @@ Vue
     // .use(Button)
     .use(Icon)
     .use(NavBar)
-    // .use(Tabbar)
-    // .use(TabbarItem)
+    .use(Tabbar)
+    .use(TabbarItem)
     .use(Swipe)
     .use(SwipeItem)
     .use(Lazyload)
