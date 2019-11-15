@@ -14,21 +14,21 @@ import '@/assets/js/rem.js'
 import 'vant/lib/index.css';
 // 按需引入vant 推荐
 import {
-    // SubmitBar,
-    // Card,
+    SubmitBar,
+    Card,
     // GoodsAction,
     // GoodsActionBigBtn,
     // GoodsActionMiniBtn,
-    // PullRefresh,
-    // List,
-    // Row,
-    // Col,
-    // Toast,
-    // CellGroup,
-    // Field,
-    // Tab,
-    // Tabs,
-    // Button,
+    PullRefresh,
+    List,
+    Row,
+    Col,
+    Toast,
+    CellGroup,
+    Field,
+    Tab,
+    Tabs,
+    Button,
     Icon,
     NavBar,
     Tabbar,
@@ -39,21 +39,21 @@ import {
 } from 'vant'
 
 Vue
-    // .use(SubmitBar)
-    // .use(Card)
+    .use(SubmitBar)
+    .use(Card)
     // .use(GoodsAction)
     // .use(GoodsActionBigBtn)
     // .use(GoodsActionMiniBtn)
-    // .use(PullRefresh)
-    // .use(List)
-    // .use(Row)
-    // .use(Col)
-    // .use(Toast)
-    // .use(CellGroup)
-    // .use(Field)
-    // .use(Tab)
-    // .use(Tabs)
-    // .use(Button)
+    .use(PullRefresh)
+    .use(List)
+    .use(Row)
+    .use(Col)
+    .use(Toast)
+    .use(CellGroup)
+    .use(Field)
+    .use(Tab)
+    .use(Tabs)
+    .use(Button)
     .use(Icon)
     .use(NavBar)
     .use(Tabbar)

@@ -1,5 +1,5 @@
 <template>
-  <div class="category">
+  <div class="home">
     home2
   </div>
 </template>
